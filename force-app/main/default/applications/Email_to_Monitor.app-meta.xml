@@ -12,6 +12,7 @@
     <label>Email to Monitor</label>
     <navType>Standard</navType>
     <tabs>Monitor__c</tabs>
+    <tabs>Monitors_Dashboard</tabs>
     <uiType>Lightning</uiType>
     <utilityBar>Email_UtilityBar</utilityBar>
 </CustomApplication>

@@ -7,3 +7,4 @@ package.xml
 ## Fix bug ##
 # Metadata API received improper input. Please ensure file name and capitalization is correct. Load of metadata from db failed for metadata of type:XXX and file name:YYY.
 AppSwitcher.appMenu
+**profile
